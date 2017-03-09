@@ -1,0 +1,4 @@
+La previsión para ${DIA} es de temperaturas máximas de ${TMAX} grados y mínimas de ${TMIN) grados.
+Por la mañana el cielo estará ${CIELO_MORNING} con ${VIENTO_MORNING}, habiendo una probabilidad de lluvia del ${LLUVIA_MORNING} por ciento.
+Por la tarde el cielo estará ${CIELO_EVENING} con ${VIENTO_EVENING}, habiendo una probabilidad de lluvia del ${LLUVIA_EVENING} por ciento.
+Por la noche el cielo estará ${CIELO_NIGHT} con ${VIENTO_NIGHT}, habiendo una probabilidad de lluvia del ${LLUVIA_NIGHT} por ciento.
