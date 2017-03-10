@@ -1,4 +1,4 @@
-La previsi√≥n para ${DIA} es de temperaturas m√°ximas de ${TMAX} grados y m√≠nimas de ${TMIN) grados.
-Por la ma√±ana el cielo estar√° ${CIELO_MORNING} con ${VIENTO_MORNING}, habiendo una probabilidad de lluvia del ${LLUVIA_MORNING} por ciento.
-Por la tarde el cielo estar√° ${CIELO_EVENING} con ${VIENTO_EVENING}, habiendo una probabilidad de lluvia del ${LLUVIA_EVENING} por ciento.
-Por la noche el cielo estar√° ${CIELO_NIGHT} con ${VIENTO_NIGHT}, habiendo una probabilidad de lluvia del ${LLUVIA_NIGHT} por ciento.
+La previsiÛn para ${DIA} es de temperaturas m·ximas de ${TMAX} grados y mÌnimas de ${TMIN) grados.
+Por la maÒana el cielo estar· ${CIELO_MORNING} con ${VIENTO_MORNING}, habiendo una probabilidad de lluvia del ${LLUVIA_MORNING} por ciento.
+Por la tarde el cielo estar· ${CIELO_EVENING} con ${VIENTO_EVENING}, habiendo una probabilidad de lluvia del ${LLUVIA_EVENING} por ciento.
+Por la noche el cielo estar· ${CIELO_NIGHT} con ${VIENTO_NIGHT}, habiendo una probabilidad de lluvia del ${LLUVIA_NIGHT} por ciento.

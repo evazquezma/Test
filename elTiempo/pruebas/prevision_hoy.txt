@@ -1,0 +1,4 @@
+La previsión para ${DIA} es de temperaturas máximas de 21 grados y mínimas de 8 grados.
+Por la mañana el cielo estará con nubes y claros con viento en calma, habiendo una probabilidad de lluvia del 20 por ciento.
+Por la tarde el cielo estará achubascado 75 por ciento con viento flojo del noroeste (NO), habiendo una probabilidad de lluvia del 35 por ciento.
+Por la noche el cielo estará con achubascado 75 por ciento con viento en calma, habiendo una probabilidad de lluvia del 20 por ciento.
